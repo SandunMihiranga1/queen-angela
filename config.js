@@ -20,7 +20,7 @@ module.exports = {
     SESSION: process.env.ZIM_CODE === undefined ? '' : process.env.ZIM_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    AFN: process.env.ALL_CAPTION === undefined ? 'Made By Angella' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'Made by Dark Saduwa Botツ' : process.env.ALL_CAPTION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
@@ -48,7 +48,7 @@ module.exports = {
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
     BOTSK: process.env.BOT_NAME === undefined ? 'QUEEN ANGELLA' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg' : process.env.ALL_IMG,
-    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://wa.me/27634090203' : process.env.SOCIAL_MEDIA,
+    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://wa.me/94761905764' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
@@ -67,7 +67,7 @@ module.exports = {
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "919946432377-1627138839",
-    SUPPORT2: "919074309534-1632403322",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT: "94761905764-1627138839",
+    SUPPORT2: "94761905764-1632403322",
+    SUPPORT3: "94761905764-1621015274"
 };
