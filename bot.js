@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Angella working!')
+            chalk.green.bold('✅ Saduwa Bot working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *ANGELLA ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g \n Report errors\njoin with +263 \n https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *SADUWA-BOT ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UC037iLQeTNabeDrF5qJxP9g \n Report errors\njoin with +263 \n https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A``` ' 
                                     , MessageType.text);
                             }
                         }
