@@ -66,7 +66,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## SKE TECH   
+## SADUWA YT   
 ### ⚠ Warning ⚠
 
 ```
@@ -85,7 +85,7 @@ you can contact 👇🏻👇🏻
 ```
 ## ```TAP THE WHATSAP LOGO TO JOIN  BOT WHATSAPP GROUP```   👇🏻👇🏻
  
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://youtube.com/channel/UC3wDPLDGzuoCfVNLEBcwWgA)**
+**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://chat.whatsapp.com/JLGbKMcql4k8ZhvRlAy8rH)**
 
 
  
@@ -93,7 +93,7 @@ you can contact 👇🏻👇🏻
 
 
 ## License
-This project is protected by `GNU General Public Licence v3.0` license.
+This project is protected by `DARK SADUWA Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
